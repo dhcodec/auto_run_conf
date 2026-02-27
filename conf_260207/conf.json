@@ -1,0 +1,21 @@
+{
+  "run": "True",
+  "Para Update": "True",
+  "Mul_B": "1.52067",
+  "Low_Per_0": "0.9",
+  "Low_Per_1": "0.8",
+  "Low_Per_2": "0.6",
+  "Hig_Per_0": "0.9",
+  "Hig_Per_1": "0.8",
+  "Hig_Per_2": "0.6",
+  "Thrd_low_0": "-0.00238",
+  "Thrd_low_1": "-0.00191",
+  "Thrd_low_2": "-0.00137",
+  "Thrd_hig_0": "0.00466",
+  "Thrd_hig_1": "0.00214",
+  "Thrd_hig_2": "0.00089",
+  "address": {
+    "ip": "192.168.1.100",
+    "port": 8080
+  }
+}
