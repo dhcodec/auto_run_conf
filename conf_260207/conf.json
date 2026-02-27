@@ -1,13 +1,13 @@
 {
   "Run": "True",
   "Para Update": "False",
-  "Mul_B": "1.52247",
-  "Thrd_low_0": "-0.00283",
-  "Thrd_low_1": "-0.00153",
-  "Thrd_low_2": "-0.00083",
-  "Thrd_hig_0": "0.00204",
-  "Thrd_hig_1": "0.00135",
-  "Thrd_hig_2": "0.00115",
+  "Mul_B": "1.5223",
+  "Thrd_low_0": "-0.00284",
+  "Thrd_low_1": "-0.00197",
+  "Thrd_low_2": "-0.00139",
+  "Thrd_hig_0": "0.00219",
+  "Thrd_hig_1": "0.0015",
+  "Thrd_hig_2": "0.0013",
   "address": {
     "ip": "192.168.1.100",
     "port": 8080
