@@ -1,6 +1,6 @@
 {
   "run": "True",
-  "Para Update": "True",
+  "Para Update": "False",
   "Mul_B": 1.52,
   "Low_Per_0": "0.9",
   "Low_Per_1": "0.8",
